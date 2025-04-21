@@ -88,8 +88,8 @@ USENET_SERVERS = [
 ]
 
 # Update
-UPSTREAM_REPO = "https://github.com/Mrlabani/Aeon-MLTB"
-UPSTREAM_BRANCH = "beta"
+UPSTREAM_REPO = "https://github.com/mrnoobx/betaaeon"
+UPSTREAM_BRANCH = "mrnoobx-patch-1"
 
 # Leech
 LEECH_SPLIT_SIZE = 0
@@ -102,7 +102,7 @@ LEECH_SUFFIX = ""
 LEECH_FONT = ""
 LEECH_FILENAME = ""
 LEECH_DUMP_CHAT = "-1002428562251"
-THUMBNAIL_LAYOUT = "https://i.ibb.co/ksz5ZH1y/17aeaf02bdc7.jpg"
+THUMBNAIL_LAYOUT = "https://i.ibb.co/tPs5tg3f/0f7b52999826.jpg"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = 0
