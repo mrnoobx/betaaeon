@@ -89,7 +89,7 @@ USENET_SERVERS = [
 
 # Update
 UPSTREAM_REPO = "https://github.com/mrnoobx/betaaeon"
-UPSTREAM_BRANCH = "beta"
+UPSTREAM_BRANCH = "mrnoobx-patch-1"
 
 # Leech
 LEECH_SPLIT_SIZE = 0
